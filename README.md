@@ -1,6 +1,6 @@
-# clone
-git clone (link)
-# change permissions
+# CLONE
+git clone https://github.com/n75a/basic-website-infogat.git
+# CHANGE PERMISSIONS
 chmod 777 web-infogat.sh
-# to execute
+# RUN
 ./web-infogat.sh
